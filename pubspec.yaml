@@ -1,9 +1,9 @@
 name: tsp
 description: >
-  A library useful for applications or for sharing on pub.dartlang.org.
-version: 0.0.1
+  Solve the TSP (Travelling Salesperson Problem) exactly
+version: 0.0.1+1
 author: Axel Christ <adracus@gmail.com>
-#homepage: https://www.example.com
+homepage: https://github.com/Adracus/tsp
 dependencies:
   quiver: ">=0.21.1 <0.22.0"
 dev_dependencies:
