@@ -1,0 +1,11 @@
+name: tsp
+description: >
+  A library useful for applications or for sharing on pub.dartlang.org.
+version: 0.0.1
+author: Axel Christ <adracus@gmail.com>
+#homepage: https://www.example.com
+dependencies:
+  quiver: ">=0.21.1 <0.22.0"
+dev_dependencies:
+  unittest: any
+  mock: any
