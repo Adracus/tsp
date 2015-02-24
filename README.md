@@ -19,7 +19,7 @@ coordinate system. The connection between two nodes is called `Edge`. In this
 implementation (due to the symmetric constraint) an edge has no specific
 direction. In code, this expresses as the following:
 
-```
+```dart
 var e1 = new Edge(new Point(0, 0), new Point(1, 1));
 var e2 = new Edge(new Point(1, 1), new Point(0, 0));
 
