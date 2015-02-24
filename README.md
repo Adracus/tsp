@@ -43,4 +43,4 @@ for performance or memory reasons, use the `Tour.streamPermute` method.
 
 
 If there are problems or you want to add something:
-Pull requests and help are always appreciated :)
+Pull requests and help are always appreciated :)# tsp
